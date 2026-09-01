@@ -1,0 +1,12 @@
+Q1:
+Return type: int
+Method name: cmd_worktree
+Parameters: int ac, const char **av, const char *prefix
+
+Q2: 100644 blob f55d4083edd518a0dad26a37ac4d5c6877184c4f  tutorial.txt
+
+Explanation: This command lists the contents of the tree object then uses "tail -4" to keep only the last 4 lines and "head -1" to keep just the first line.
+
+Q3: l10n: de.po: Update German translation for Git v2.31.0
+
+Q4: Documentation/RelNotes/2.31.1.txt

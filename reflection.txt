@@ -1,0 +1,1 @@
+I like to use vscode as my preffered IDE because I have the most experience with it and I feel most comfortable using it.I do not have experience using vi, but I am looking forward to learning. Using terminal-based editors can be fast and use less resources, but can be difficult to learn and get good at.
