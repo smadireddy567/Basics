@@ -1,0 +1,8 @@
+Standup - individual
+
+What I did: Completed the Coding, Development Environments, and Version Control sections of the SE Basics Workshop, including FizzBuzz, vi practice, and setting up my Basics GitHub repo.
+
+What I need to do next: Finish the remaining Task Management activities and any pages after this one.
+
+What is blocking me: Nothing currently.
+
